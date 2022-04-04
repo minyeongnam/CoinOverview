@@ -21,8 +21,10 @@
 style은 자율적으로 진행해주세요.
 <br />
 <br />
+
 ### API
 <br />
+
 ### 네비게이션
 - [ ] prices, exchanges coins의 3개의 메뉴간의 페이지 이동
 - [ ] 현재 페이지에 해당하는 메뉴에 active 효과
