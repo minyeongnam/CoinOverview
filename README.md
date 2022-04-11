@@ -68,6 +68,10 @@ https://api.coinpaprika.com/v1/coins/{coin_id}/exchanges
 style은 자율적으로 진행해주세요.
 <br />
 
+## 미션 화면
+![Animation](https://user-images.githubusercontent.com/71241063/162670008-ab9dd52d-adc8-4f08-ae57-e06733d25010.gif)
+<br />
+
 ### 공통
 
 - [ ] interface는 CamelCase로 작성
