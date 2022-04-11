@@ -1,0 +1,8 @@
+.page-prices {
+  .list-price .list-item {
+    margin-top: 10px;
+    &:first {
+      margin-top: 0;
+    }
+  }
+}
