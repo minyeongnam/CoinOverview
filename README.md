@@ -65,7 +65,11 @@ https://api.coinpaprika.com/v1/coins/{coin_id}/exchanges
 
 ## 미션
 
-style은 자율적으로 진행해주세요.
+- [미션 템플릿 바로가기](https://codesandbox.io/s/sharp-hawking-piydi9?file=/src/App.tsx)
+- 미션 템플릿에서 fork하여 진행
+- fork 후 URL 스터디방에 공유
+- [폴더 및 파일 네이밍 규칙](https://various-timpani-126.notion.site/Coding-Covention-86f8a8ecfaba4a26bebcdd3e78216068) 을 읽어주세요.
+
 <br />
 
 ## 미션 화면
@@ -74,10 +78,13 @@ style은 자율적으로 진행해주세요.
 
 ### 공통
 
+- style은 자율적으로 진행해주세요.
+
 - [ ] interface는 CamelCase로 작성
 - [ ] 전개구문(Spread syntax)과 구조 분해 할당(Destructuring_assignment)을 사용하기
 - [ ] 데이터를 불러오는 동안 loding 컴포넌트 출력
 - [ ] react-router-dom 버전은 V6로 적용
+- [ ] 값에 따라 class추가시 classNames 모듈 사용해보기
 
 ### 네비게이션
 
