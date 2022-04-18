@@ -1,6 +1,10 @@
 # coin-overview
 
-프론트엔드팀 실력 향상을 위해 제작하였습니다.  
+프론트엔드팀 React 과제 1차
+프론트엔드팀 실력 향상을 위해 제작하였습니다.
+외부로 소스 유출은 자제해 주시길 바랍니다.
+
+참고: 노마드 코더 react 챌린지
 <br />
 <br />
 
@@ -80,7 +84,7 @@ https://api.coinpaprika.com/v1/coins/{coin_id}/exchanges
 
 - style은 자율적으로 진행해주세요.
 
-- [ ] interface는 CamelCase로 작성
+- [ ] interface는 이름은 Pascal Case, 속성은 Camel Case로 작성한다.
 - [ ] 전개구문(Spread syntax)과 구조 분해 할당(Destructuring_assignment)을 사용하기
 - [ ] 데이터를 불러오는 동안 loding 컴포넌트 출력
 - [ ] react-router-dom 버전은 V6로 적용
